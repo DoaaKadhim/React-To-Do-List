@@ -7,7 +7,7 @@
     "dotenv": "^16.4.5",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-scripts": "^5.0.0"
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "@types/react": "18.2.38",
@@ -18,7 +18,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "browserslist": [
@@ -29,5 +29,5 @@
   ],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "This project is a lab exercise to build a Todo List application using React. It demonstrates the use of state management with `useReducer` or `useState`, controlled forms, and conditional rendering."
 }
