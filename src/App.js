@@ -30,24 +30,6 @@ const initialTodos = [
     title: "Reply To Emails",
     completed: true,
   },
-  {
-    userId: 1,
-    id: 6,
-    title: "qui ullam ratione quibusdam voluptatem quia omnis",
-    completed: false,
-  },
-  {
-    userId: 1,
-    id: 9,
-    title: "molestiae perspiciatis ipsa",
-    completed: false,
-  },
-  {
-    userId: 1,
-    id: 10,
-    title: "illo est ratione doloremque quia maiores aut",
-    completed: true,
-  },
 
 ];
 
