@@ -32,12 +32,6 @@ const initialTodos = [
   },
   {
     userId: 1,
-    id: 5,
-    title: "laboriosam mollitia et enim quasi adipisci quia provident illum",
-    completed: false,
-  },
-  {
-    userId: 1,
     id: 6,
     title: "qui ullam ratione quibusdam voluptatem quia omnis",
     completed: false,
