@@ -15,7 +15,7 @@ const initialTodos = [
   {
     userId: 1,
     id: 2,
-    title: "class work",
+    title: "Class work",
     completed: false,
   },
   {
