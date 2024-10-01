@@ -38,12 +38,6 @@ const initialTodos = [
   },
   {
     userId: 1,
-    id: 7,
-    title: "illo expedita consequatur quia in",
-    completed: false,
-  },
-  {
-    userId: 1,
     id: 8,
     title: "quo adipisci enim quam ut ab",
     completed: true,
